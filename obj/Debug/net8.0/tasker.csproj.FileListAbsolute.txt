@@ -1,0 +1,14 @@
+/home/cesium/projects/tasker/bin/Debug/net8.0/tasker
+/home/cesium/projects/tasker/bin/Debug/net8.0/tasker.deps.json
+/home/cesium/projects/tasker/bin/Debug/net8.0/tasker.runtimeconfig.json
+/home/cesium/projects/tasker/bin/Debug/net8.0/tasker.dll
+/home/cesium/projects/tasker/bin/Debug/net8.0/tasker.pdb
+/home/cesium/projects/tasker/obj/Debug/net8.0/tasker.GeneratedMSBuildEditorConfig.editorconfig
+/home/cesium/projects/tasker/obj/Debug/net8.0/tasker.AssemblyInfoInputs.cache
+/home/cesium/projects/tasker/obj/Debug/net8.0/tasker.AssemblyInfo.cs
+/home/cesium/projects/tasker/obj/Debug/net8.0/tasker.csproj.CoreCompileInputs.cache
+/home/cesium/projects/tasker/obj/Debug/net8.0/tasker.dll
+/home/cesium/projects/tasker/obj/Debug/net8.0/refint/tasker.dll
+/home/cesium/projects/tasker/obj/Debug/net8.0/tasker.pdb
+/home/cesium/projects/tasker/obj/Debug/net8.0/tasker.genruntimeconfig.cache
+/home/cesium/projects/tasker/obj/Debug/net8.0/ref/tasker.dll
